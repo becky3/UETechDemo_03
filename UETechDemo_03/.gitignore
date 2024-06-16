@@ -76,3 +76,4 @@ DerivedDataCache/*
 
 # MyCustom
 Resources/*
+/Config/DefaultEngine.ini
